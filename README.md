@@ -11,6 +11,7 @@ The objective of this project was to uncover sales patterns for instacart by poe
 - Which departments have the highest frequency of orders?
 ## Final Project
 https://docs.google.com/spreadsheets/d/134Y_aETlkFK4Eckf89ed6QM6reYkjAOR/edit?usp=sharing&ouid=114495450749431207051&rtpof=true&sd=true
+https://public.tableau.com/app/profile/chris.schwarz/viz/InstacartAnalysis_17223646120340/ChinaTopGenres?publish=yes
 ## Data Sets
 https://drive.google.com/drive/folders/11otye4t2v-4fdsyFEA99K9KhAjAV-fRE?usp=sharing
 
