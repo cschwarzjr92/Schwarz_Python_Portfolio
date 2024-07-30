@@ -9,6 +9,6 @@ The objective of this project was to uncover sales patterns for instacart by poe
 - How can instacart use simpler price range groups to improve marketing and sales?
 - What are the most popular products and types of products?
 - Which departments have the highest frequency of orders?
-## Data Sets
+
 
 
